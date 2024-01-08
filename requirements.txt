@@ -1,0 +1,3 @@
+plexapi
+tmdbv3api
+pillow
