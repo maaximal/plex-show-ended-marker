@@ -1,5 +1,5 @@
 # Plex ended marker #
-This script adds a red triangle to the upper left side of plex tv show posters if the series has ended.
+This script adds a red triangle to the upper left side of plex tv show posters if the series has ended. If a show returns the marker is removed. Both original and adapted images are saved to ./posters and are used as state.
 
 ![](example.png)
 
